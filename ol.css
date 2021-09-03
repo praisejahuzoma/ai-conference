@@ -1,0 +1,441 @@
+  li {
+   float: left;
+  }
+  
+  a {
+    
+    padding: 30px;
+    height: 50px;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height: 49px;
+    background-color: white;
+  }
+  li a:hover{
+    background-color: white;
+    color:rgb(41, 41, 41);
+
+  }
+
+
+  li {
+    float: l;
+
+  }
+  
+  li a {
+    display: block;
+    color: rgba(34, 26, 26, 0.808);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    height: 30px;
+    
+    
+  }
+
+  .m{
+     
+      height: 800px;
+      width: 100%;
+      background-color: rgba(2, 2, 58, 0.3);
+  }
+
+  .op{
+   
+    
+     margin-top: -600px;
+     font-size: 90px;
+     margin-left: 20px;
+     color:white;
+  }
+
+  .lp{
+    margin-top: -20px;
+    margin-left: 20px;
+  }
+
+  .ko{
+    margin-top: -10px;
+    margin-left: 20px;
+  }
+
+  .jp{
+    margin-top: 90px;
+    margin-left: 70px;
+    border-radius: 20px;
+     background-color: rgb(7, 138, 245);
+    border:none;
+    height:40px;
+    width: 10%;
+    bottom: 40%;
+  }
+
+  .mk{
+      margin-top: 90px;
+      margin-left: 70px;
+      border-radius: 20px;
+       background-color: rgb(122, 195, 255);
+      border:none;
+      height:40px;
+      width: 10%;
+      bottom: 40%;   
+  }
+
+  .mk:hover{
+    background-color: rgb(102, 162, 231);
+  }
+
+  .jp:hover{
+    background-color: rgb(54, 146, 250);
+  }
+
+
+
+
+.v{
+  margin-left: 390px;
+  margin-top: 90px;
+  
+}
+
+.t{
+  margin-top: px;
+  height: 48px;
+  margin-left: 180px;
+}
+
+.y{
+  margin-left: 50px;
+ 
+  height: 40px;
+  border: none;
+  border-radius: 20px;
+  background-color: rgb(12, 12, 134);
+  color: white;
+  margin-top: 3px;
+      margin-left: 120px;
+      border-radius: 20px;
+       background-color: rgb(122, 195, 255);
+      border:none;
+      height:40px;
+      width: 40%;
+      bottom: 40%
+}
+.y:hover{
+  background-color: rgb(0, 68, 255);
+}
+
+.e{
+margin-top: 200px;
+font-size: 30px;
+margin-left: 500px;
+}
+
+.tr{
+  color:rgb(34, 128, 252);
+}
+
+.as{
+  margin-left: 180px;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.l{
+margin-left: 200px;
+
+}
+
+.kl{
+  margin-left: 70px;
+  margin-top: -10px;
+  cursor: pointer; 
+}
+
+.n{
+  margin-left: 30px;
+  margin-top: -10px;
+  cursor: pointer;
+}
+
+.ht{
+  margin-left:30px;
+  margin-top: -10px; 
+  cursor: pointer;
+}
+
+.i{
+  margin-top: 15px;
+  color:rgb(63, 27, 223);
+}
+
+.FG{
+ border-radius: 30px;
+ background-color: rgb(3, 3, 109); 
+ border:none;
+ height: 38px;
+ width: 140px;
+ margin-left: 50px;
+
+ color:white;
+
+}
+
+.FG:hover{
+  background-color: rgb(52, 8, 155);
+  cursor: pointer;
+}
+
+.j{
+  font-size: 40px;
+  margin-left: 40px;
+  margin-top: 50px;
+}
+
+.done{
+  margin-top: 240px;
+  margin-left: 50px;
+}
+
+.b{
+  font-size: 40px;
+margin-left: 40px;
+}
+
+.lop{
+margin-top: 120px;
+}
+
+.lm{
+  margin-left: 100px;
+  margin-top: -70px;
+}
+
+.dop{
+  margin-left: 110px;
+  font-size: 20px;
+}
+
+.fin{
+  
+  margin-top: 80px;
+}
+
+.nj{
+  margin-top: 30px;
+  margin-left: 50px;
+  font-size: 20px;
+  margin-left: 40px;
+}
+
+.et{
+  font-size: 20px;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+  .hop{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 55px;
+  }
+
+  .dor{
+    margin-left: 43%;
+    margin-top: -900%;
+  }
+  
+
+  .jet{
+    float: right;
+    margin-left: 90px;
+  }
+
+  .how{
+    margin-top: 80px;
+    margin-left: -70px;
+  }
+
+  .vol{
+    margin-left: 380px;
+    margin-top: -170px;
+    font-size: 20px;
+    color:rgb(92, 11, 243);
+  }
+
+  .sop{
+    margin-left: 790px;
+    color: rgb(92, 11, 243);
+    font-size: 20px;
+    margin-top: 10px;
+  }
+
+  .gto{
+   
+    color: rgb(92, 11, 243);
+    font-size: 20px;
+    margin-top: 10px;
+  }
+
+  .rop{
+    color: rgb(92, 11, 243);
+    font-size: 20px;
+    margin-top: 10px;
+  }
+
+  .bol{
+    margin-top: 200px;
+    margin-left: 120px;
+  }
+
+  .jhu{
+    color: rgb(92, 11, 243);
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 30px;
+  }
+
+  .ret{
+    color: rgb(92, 11, 243);
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 45px;
+  }
+
+  .re{
+    margin-left: 679px;
+    margin-top: -200px;
+  }
+
+  .nb{
+    margin-left: 20px;
+    margin-top: 70px;
+  }
+
+  .col{
+    font-size: 23px;
+    color: rgb(92, 11, 243);
+  }
+
+  .go{
+    margin-left: -3px;
+    font-size: 23px;
+    color: rgb(92, 11, 243);
+
+  }
+
+  .uo{
+    margin-top:70px; 
+  }
+
+  .tyr{
+    margin-left:90px; 
+    margin-top: -60px;
+  }
+
+  .amp{
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 19px;
+    color: rgb(139, 108, 180);
+  }
+
+  .qm{
+   margin-top: 10px;
+   margin-left: 30px;
+   font-size: 19px; 
+   color: rgb(139, 108, 180);
+  }
+
+  .aq{
+    margin-top: 30px;
+    margin-left: 40px;
+    height: 100px;
+  }
+
+  .fgh{
+    margin-top: 20px;
+    margin-left: 30px;
+    border: none;
+    background-color: rgb(38, 15, 165);
+    border-radius: 20px;
+    height: 40px;
+    width: 340px;
+  color: white;
+  cursor: pointer;
+  }
+
+  .jhg{
+    background-color:rgb(38, 15, 165) ;
+    height: 300px;
+    width: 730px;
+    margin-left: 480px;
+    margin-top: -270px;
+  }
+
+  .fgh:hover{
+    background-color: blue;
+  }
+
+  .XZ{
+    margin-left: 90px;
+    font-size: 30px;
+    color:white;
+ margin-top: -300px;
+ padding-top: 100px;
+  }
+
+  .pra{
+    margin-top: 70px;
+    margin-left: 270px;
+    border-radius: 20px;
+    width: 200px;
+    height: 40px;
+    border: none;
+  }
+
+  .pra:hover{
+    background-color: bisque;
+    cursor: pointer;
+  }
+
+  .opi{
+    margin-top: 100px;
+    margin-left: 420px;
+  }
+
+  .wr{
+    margin-top: 20px;
+    margin-left: 300px;
+    font-size: 15px;
+  }
+  .amk{
+    margin-top: 20px;
+    margin-left: 400px;
+  }
+
+  .sed{
+    cursor: pointer;
+    margin-top: 40px;
+    margin-left: 460px;
+  }
+
+  .ant{
+    margin-left: 270px;
+    margin-top: -20px;
+    cursor: pointer;
+  }
+
+  .lab{
+    margin-left: 300px;
+    margin-top: -20px;
+    cursor: pointer;
+  }
+
+  .class{
+  margin-left: 80px;
+  }
